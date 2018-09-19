@@ -1,0 +1,62 @@
+
+body {
+    background-color: #000000;
+}
+
+body{
+    font-family: "Times New Roman";
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 50px
+}
+
+h2{
+    color: blue;
+    text-align: center;
+    font-size: 48px
+}
+
+h3{
+    color: blue;
+    text-align: center;
+    font-size: 45px;
+}
+
+h4{
+    color: blue;
+    text-align: center;
+    font-size: 40px
+}
+
+p{
+    color: blue;
+    text-align: center;
+    font-size: 30px
+}
+
+table{
+    color: blue;
+    text-align: center;
+}
+
+.topnav{
+    background-color: white;
+    text-align: center;
+    display: block;
+    font-size: 35px;
+}
+
+ul{
+    color: blue;
+    text-align: center;
+    font-size: 30px
+}
+
+ol{
+    color: blue;
+    text-align: left;
+    font-size: 30px;
+}
